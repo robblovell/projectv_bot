@@ -1,0 +1,15 @@
+{
+  "name": "bdbot",
+  "version": "1.0.0",
+  "description": "Build Direct Basic Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Robb Lovell",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^1.0.1",
+    "restify": "^4.1.1"
+  }
+}
