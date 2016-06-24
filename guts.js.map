@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "guts.js",
+  "sourceRoot": "",
+  "sources": [
+    "guts.coffee"
+  ],
+  "names": [],
+  "mappings": ";AACA;AAAA,MAAA;;EAAM;IACW,cAAA,GAAA;;mBAEb,OAAA,GAAS,SAAC,OAAD;AACL,aAAO,YAAA,GAAa;IADf;;;;;;EAGb,MAAM,CAAC,OAAP,GAAqB,IAAA,IAAA,CAAA;AANrB"
+}

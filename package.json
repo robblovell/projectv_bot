@@ -4,12 +4,17 @@
   "description": "Build Direct Basic Bot",
   "main": "app.js",
   "scripts": {
-    "test": "npm test"
+    "test": "node_modules/mocha/bin/mocha test"
   },
   "author": "Robb Lovell",
   "license": "ISC",
   "dependencies": {
     "botbuilder": "^1.0.1",
     "restify": "^4.1.1"
+  },
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^2.5.3",
+    "should": "^9.0.2"
   }
 }
